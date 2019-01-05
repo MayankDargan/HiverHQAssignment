@@ -1,0 +1,16 @@
+{
+  "name": "hiverhq",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "textract": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
